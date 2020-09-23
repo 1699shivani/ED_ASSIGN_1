@@ -1,0 +1,97 @@
+.bg {
+    background-color: red;
+        width: 100%;
+        height: 8.22199%;
+        left: 0%;
+        top: 0%;"
+    }
+.logo {
+    position: relative;
+    top: -6%;
+    text-align: center;
+    color: red;
+    background-color: white;
+    border-radius: 50%;
+    width: 36px;
+    height: 28px;
+    margin-left: 6px;
+    font-size: 25px;
+    }
+
+
+   .login {
+    position: absolute;
+    color: white;
+    text-align: right;
+    width: 3.14788%;
+    height: 2.36382%;
+    left: 74.3045%;
+    top: 2.98047%;
+    font-size: 21px;
+    }
+    
+    
+    .create {
+        color: white;
+        text-align: right;
+        width: 11.1274%;
+        height: 2.36382%;
+        left: 80.4539%;
+        top: 2.98047%;
+        position: absolute;
+        font-size: 21px;
+    }
+
+
+
+.heading {
+    width: 512px;
+    height: 50px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--dark-slate-blue);
+  }
+
+  .filter {
+         display:inline-block;
+        width: 22%;
+        height: 100%;
+                 
+          }
+          
+          .filtercontainer {
+            width: 250px;
+            height: 70%;
+            box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+            background-color: var(--white);
+          margin-left:10px;
+          margin-top: 50px;
+          } 
+        
+
+  .restroresult  {
+        display: inline-block;
+        width: 77%;
+        height: 100%;
+          
+      } 
+
+
+      .restrocontainer {
+    
+    width: 100%;
+    height: 25%;
+      margin-top: 0ed;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+      background-color: var(--white);
+           
+      } 
+
+
+ 
